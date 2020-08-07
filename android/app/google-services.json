@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "355779140444",
+    "firebase_url": "https://flipclip-205c9.firebaseio.com",
+    "project_id": "flipclip-205c9",
+    "storage_bucket": "flipclip-205c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355779140444:android:155d6079c2d9d5ea357f99",
+        "android_client_info": {
+          "package_name": "com.flipclip.abbas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355779140444-q1393v5h267v5vt28on91k4g26u0acct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flipclip.abbas",
+            "certificate_hash": "2a58b5707b626678db798b48329d715791209124"
+          }
+        },
+        {
+          "client_id": "355779140444-66gnmicdnbll0bdcj94tu1ebcrhprnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjPP5iNzXAoJV0IOUFhWk6G5KLUpKQjzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355779140444-66gnmicdnbll0bdcj94tu1ebcrhprnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
